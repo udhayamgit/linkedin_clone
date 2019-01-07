@@ -110,5 +110,5 @@ This command will build application using production settings and start the appl
 ```bash
 npm run serve:prod
 ```
-
+#### This project used [drminnaar](https://github.com/drminnaar) react starter project to create the base of the project.
 ---
